@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+6dfc005a46169096db36669da5f03ad65d3aa211 refs/remotes/origin/feature/deploy-jar-to-nexus
+e62e7432ecf849fc5607aa6e1b87cb2ca3622970 refs/remotes/origin/master
+806b3d32ca742d66d446d91e4e9cc8f1faccb374 refs/remotes/origin/new-ci-workflow
